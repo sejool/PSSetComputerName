@@ -1,2 +1,2 @@
 # PSSetComputerName
-Simple full screen UI to set Computer Name as part of a SCCM OSD Task Sequence
+Simple PowerShell based full screen UI to set the computer name as part of a SCCM OSD Task Sequence
